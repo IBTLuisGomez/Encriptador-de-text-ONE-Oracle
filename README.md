@@ -1,7 +1,7 @@
 # ONE-Oracle
 Proyecto de encriptador de texto oracle
 
-Este proyecto fue realiado para el programa oracle one G# el 2024 por Fernadno mendoza Gomez, todos los derechos de autor reservados
+Este proyecto fue realiado para el programa oracle one G# el 2024 por Fernando Mendoza Gomez, todos los derechos de autor reservados
 
 Estado del proyecto. Concluido
 
